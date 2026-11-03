@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schadow;Benjamin;;;
+FN:Benjamin Schadow
+ORG:Targobank
+TITLE:Financial Analyst
+EMAIL;TYPE=INTERNET:benjamin.schadow@fs-students.de
+TEL;TYPE=CELL:+4915226662333
+ADR;TYPE=WORK:;;;Frankfurt am Main;;;Germany
+URL:https://www.linkedin.com/in/benjamin-schadow-873973193/
+NOTE:Student Council at Frankfurt School of Finance & Management
+END:VCARD
